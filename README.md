@@ -15,3 +15,4 @@ Campus Notes is a small project for keeping weekly college notes in one place. I
 1. Fork the repo and create a branch: `feature/<name>-<change>`
 2. Use Conventional Commits (`feat:`, `fix:`, `docs:`, `refactor:`, `chore:`)
 3. Open a pull request with a clear description.
+How to run: open notes.txt
